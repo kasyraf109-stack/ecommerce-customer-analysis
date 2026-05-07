@@ -23,3 +23,5 @@ Source: UCI Machine Learning Repository
 Transactions from a UK-based online retail store
 
 Period covered: December 2010 – December 2011
+
+**Dataset Features**
