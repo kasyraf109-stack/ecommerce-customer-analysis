@@ -36,3 +36,11 @@ Period covered: December 2010 – December 2011
 | UnitPrice | Price per item |
 | CustomerID | Unique customer identifier |
 | Country | Customer country |
+
+## Analysis Questions
+1. Which countries generate the highest revenue?
+2. What are the best-selling products?
+3. How does revenue change over time?
+4. Who are the top customers by revenue?
+
+
