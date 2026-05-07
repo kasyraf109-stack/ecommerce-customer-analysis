@@ -1,11 +1,11 @@
-**Online Retail Sales Analysis**
+## Online Retail Sales Analysis
 
-**Project Overview**
+## Project Overview
 
 This project analyzes the Online Retail Dataset using Python and Google Colab.
 The goal is to explore sales performance, customer purchasing behavior, and business trends through data cleaning, exploratory data analysis (EDA), and visualization.
 
-**Objectives**
+## Objectives
 
 The analysis aims to answer several business questions:
 
@@ -15,7 +15,7 @@ What are the monthly sales trends?
 Who are the highest spending customers?
 Are there seasonal purchasing patterns?
 
-**Dataset Information**
+## Dataset Information
 
 Dataset: Online Retail Dataset
 
@@ -24,4 +24,15 @@ Transactions from a UK-based online retail store
 
 Period covered: December 2010 – December 2011
 
-**Dataset Features**
+## Dataset Features
+
+| Column | Description |
+|---|---|
+| InvoiceNo | Invoice number |
+| StockCode | Product/item code |
+| Description | Product description |
+| Quantity | Number of items purchased |
+| InvoiceDate | Transaction date and time |
+| UnitPrice | Price per item |
+| CustomerID | Unique customer identifier |
+| Country | Customer country |
