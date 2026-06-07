@@ -43,4 +43,18 @@ Period covered: December 2010 – December 2011
 3. How does revenue change over time?
 4. Who are the top customers by revenue?
 
+## Key Insights
+- The UK is the main revenue contributor.
+- Several countries outside the UK, such as the Netherlands, EIRE, Germany, and France, show strong revenue contribution.
+- Revenue increased toward the later months of 2011.
+- A small group of products generated a large amount of total revenue.
+- December 2011 was excluded from monthly trend analysis because it contains partial data only.
 
+## Business Recommendations
+- Focus marketing efforts on strong international markets.
+- Prepare inventory earlier before peak sales months.
+- Prioritize high-performing products in promotion and stock planning.
+- Monitor cancelled orders separately for operational improvement.
+
+## Conclusion
+This project shows how retail transaction data can be used to understand sales performance and support business decision-making. The analysis provides useful insights into market demand, product performance, and monthly revenue patterns.
